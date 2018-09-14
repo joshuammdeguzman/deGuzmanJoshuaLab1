@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">deGuzmanJoshuaLab1</string>
+    <string name="b1">Constraint</string>
+    <string name="b2">Relative</string>
+    <string name="b3">Linear</string>
+    <string name="head">First Activity</string>
+    <string name="instruct">Press which layout you want to view</string>
+    <string name="manila">Manila For A Day</string>
+    <string name="qp">Quiapo Church</string>
+    <string name="bambike">Bambike Ecotours Intramuros</string>
+    <string name="manilal">Location: Intramuros Manila Gen. Luna Street, Manila, Luzon 1002, Philippines</string>
+    <string name="qp1">Location: Quezon Blvd, Plaza Miranda Quiapo, Manila, Luzon 1014 Philippines</string>
+    <string name="bambikel">Location: Real Street Corner General Luna Street | Plaza San Luis Complex, Intramuros, Manila, Luzon 1002, Philippines</string>
+    <string name="manilad">Distance from UST: 3.8 km</string>
+    <string name="qpd">Distance from UST: 2.4 km</string>
+    <string name="bambiked">Distance from UST: 3.7 km</string>
+    <string name="b">Back</string>
+    <string name="n">Next</string>
+</resources>
